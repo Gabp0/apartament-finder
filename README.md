@@ -1,1 +1,1 @@
-# appartament-finder
+# apartament-finder
